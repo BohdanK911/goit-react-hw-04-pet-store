@@ -1,0 +1,25 @@
+{
+  "files": {
+    "about-page.js": "/goit-react-hw-04-pet-store/static/js/about-page.5b0e7147.chunk.js",
+    "about-page.js.map": "/goit-react-hw-04-pet-store/static/js/about-page.5b0e7147.chunk.js.map",
+    "main.css": "/goit-react-hw-04-pet-store/static/css/main.d6bb3c16.chunk.css",
+    "main.js": "/goit-react-hw-04-pet-store/static/js/main.2387c229.chunk.js",
+    "main.js.map": "/goit-react-hw-04-pet-store/static/js/main.2387c229.chunk.js.map",
+    "pet-page.css": "/goit-react-hw-04-pet-store/static/css/pet-page.b750ec84.chunk.css",
+    "pet-page.js": "/goit-react-hw-04-pet-store/static/js/pet-page.57540df2.chunk.js",
+    "pet-page.js.map": "/goit-react-hw-04-pet-store/static/js/pet-page.57540df2.chunk.js.map",
+    "pets-page.css": "/goit-react-hw-04-pet-store/static/css/pets-page.7f35cb3e.chunk.css",
+    "pets-page.js": "/goit-react-hw-04-pet-store/static/js/pets-page.475e5c60.chunk.js",
+    "pets-page.js.map": "/goit-react-hw-04-pet-store/static/js/pets-page.475e5c60.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-04-pet-store/static/js/runtime~main.91124b9a.js",
+    "runtime~main.js.map": "/goit-react-hw-04-pet-store/static/js/runtime~main.91124b9a.js.map",
+    "static/js/5.3da89e90.chunk.js": "/goit-react-hw-04-pet-store/static/js/5.3da89e90.chunk.js",
+    "static/js/5.3da89e90.chunk.js.map": "/goit-react-hw-04-pet-store/static/js/5.3da89e90.chunk.js.map",
+    "index.html": "/goit-react-hw-04-pet-store/index.html",
+    "precache-manifest.3f12c35f088068c00d96de9e55592724.js": "/goit-react-hw-04-pet-store/precache-manifest.3f12c35f088068c00d96de9e55592724.js",
+    "service-worker.js": "/goit-react-hw-04-pet-store/service-worker.js",
+    "static/css/main.d6bb3c16.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/main.d6bb3c16.chunk.css.map",
+    "static/css/pet-page.b750ec84.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/pet-page.b750ec84.chunk.css.map",
+    "static/css/pets-page.7f35cb3e.chunk.css.map": "/goit-react-hw-04-pet-store/static/css/pets-page.7f35cb3e.chunk.css.map"
+  }
+}
