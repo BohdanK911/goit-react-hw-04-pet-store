@@ -1,0 +1,15 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+}
+
+.list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.listItem {
+  width: 33.3%;
+}
