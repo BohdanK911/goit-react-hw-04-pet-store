@@ -8,7 +8,7 @@
     "url": "https://github.com/BohdanK911/goit-react-hw-04-pet-store.git"
   },
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^5.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
